@@ -1,0 +1,12 @@
+create branch 
+git checkout -b <branchname>
+git add .
+git commit -m ""
+git push origin <branchname>
+
+
+taking changes 
+git pull origin master
+
+
+
